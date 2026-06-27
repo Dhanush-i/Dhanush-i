@@ -10,7 +10,7 @@ I enjoy building practical applications, exploring new technologies, and continu
 
 Email: **[dhanush.07115@gmail.com](mailto:dhanush.07115@gmail.com)**
 
-Resume: [**CLICK ME**](https://drive.google.com/file/d/1uXE1kGkrfIAay6aqCSloThRFOY5kHMmi/view?usp=sharing)
+Resume: https://drive.google.com/file/d/1S-xg64T18xxF5-YplD2VbIiSXbCG7Fim/view?usp=sharing
 
 **Want a resume like this? Build yours with ResumeForge right now:** https://resume-forge-pearl.vercel.app
 
