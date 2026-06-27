@@ -8,9 +8,9 @@ I'm actively learning Data Structures & Algorithms, System Design, TensorFlow, K
 
 I enjoy building practical applications, exploring new technologies, and continuously improving my problem-solving abilities.
 
-Email: **[dhanush.07115@gmail.com](mailto:dhanush.07115@gmail.com)**
+Reach out to me: **[dhanush.07115@gmail.com](mailto:dhanush.07115@gmail.com)**
 
-Resume: https://drive.google.com/file/d/1S-xg64T18xxF5-YplD2VbIiSXbCG7Fim/view?usp=sharing
+Check out my Resume: https://drive.google.com/file/d/1S-xg64T18xxF5-YplD2VbIiSXbCG7Fim/view?usp=sharing
 
 **Want a resume like this? Build yours with ResumeForge right now:** https://resume-forge-pearl.vercel.app
 
